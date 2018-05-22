@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "930605323030",
+    "firebase_url": "https://presentsir-d7e0d.firebaseio.com",
+    "project_id": "presentsir-d7e0d",
+    "storage_bucket": "presentsir-d7e0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930605323030:android:557c27920e032de0",
+        "android_client_info": {
+          "package_name": "com.android.shubham.presentsir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930605323030-kb8d5qdeodkk8cm0qhn20jm09en5ckh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.shubham.presentsir",
+            "certificate_hash": "e4779a0ff88784ed54a99324ac4b025db1d31648"
+          }
+        },
+        {
+          "client_id": "930605323030-j24ssqjgk8kh7frs8ceksvprjbooli1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIY064e-OybayBHCUu3DToazFZrRjFjqo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930605323030-j24ssqjgk8kh7frs8ceksvprjbooli1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
